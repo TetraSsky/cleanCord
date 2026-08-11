@@ -125,7 +125,14 @@ If you encounter any issues or have feature requests (This will entirely depend 
 This plugin is built for and requires [Vencord](https://github.com/Vendicated/Vencord), a Discord client mod! Big thanks to them ❤️❤️❤️!
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=TetraSsky/CleanCord&type=Date)](https://www.star-history.com/#TetraSsky/CleanCord&Date)
+
+<a href="https://www.star-history.com/?repos=TetraSsky%2FcleanCord&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=TetraSsky/cleanCord&type=date&theme=dark&legend=top-left&sealed_token=rjAJUTyMg8UNJ2Q6nvqhfepR6mCH6oY9jm12RX7sPXQkNFZu8qpjBMfSK3wut0_XxeXGFg3zsMJpZ9xqvNX1-fId3k4g6W-AK1uO-CfgDkY-cRj7qlE0cN24RpvqqUPsx45XWVhFplPg21Ixw55uAUXS17fjuk2yhOaMvzUB2RoJcOQk1Xn91mlc2Q85" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=TetraSsky/cleanCord&type=date&legend=top-left&sealed_token=rjAJUTyMg8UNJ2Q6nvqhfepR6mCH6oY9jm12RX7sPXQkNFZu8qpjBMfSK3wut0_XxeXGFg3zsMJpZ9xqvNX1-fId3k4g6W-AK1uO-CfgDkY-cRj7qlE0cN24RpvqqUPsx45XWVhFplPg21Ixw55uAUXS17fjuk2yhOaMvzUB2RoJcOQk1Xn91mlc2Q85" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=TetraSsky/cleanCord&type=date&legend=top-left&sealed_token=rjAJUTyMg8UNJ2Q6nvqhfepR6mCH6oY9jm12RX7sPXQkNFZu8qpjBMfSK3wut0_XxeXGFg3zsMJpZ9xqvNX1-fId3k4g6W-AK1uO-CfgDkY-cRj7qlE0cN24RpvqqUPsx45XWVhFplPg21Ixw55uAUXS17fjuk2yhOaMvzUB2RoJcOQk1Xn91mlc2Q85" />
+ </picture>
+</a>
 
 ## License
 MIT License - See [LICENSE](LICENSE) for details.
